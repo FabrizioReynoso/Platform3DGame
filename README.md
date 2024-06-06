@@ -1,0 +1,2 @@
+# Platform3DGame
+ Este proyecto es un juego de aventura plataformero 3D, que fue creado como parte de la materia Programación II en mi carrera de Diseño y Programación en Simuladores Virtuales. Tiene como objetivo demostrar el diseño general de mi juego incluyendo las mecánicas, dinámicas, esteticas y su jugabilidad. Además, cuenta con dos niveles para proporcionar una visión más completa de la experiencia que se pretende crear.
